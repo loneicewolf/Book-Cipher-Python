@@ -1,0 +1,65 @@
+Notebook Properties:
+###Notebook name: BookCipher.ipynb
+
+### Author of this Project: William Martens
+------------------------------------
+### Project Title: BookCipher (Encryptor and Decryptor) In Python
+------------------------------------
+### Date: 2020-10-24 (Swedish Time & Date)
+------------------------------------
+### Time: 21:10
+------------------------------------
+#### Key Words:  BookCipher ,  Obfuscation , Steganography , Cryptography, 
+------------------------------------
+#### Project Purpose:
+"Why did I make this project?"
+I have asked myself that question.
+---------------------------
+
+This has been on my mind forever. Yes, **forever**. 
+As long as I can remember it, the first time I heard about encryption, or anything related to it at all; was book-ciphers.
+
+It was quite cool thing actually, so I obviously, **searched on the internet** (This was a few years ago, 6 or even 8 to 10 years ago, approx.) **For a program that would do that**; 
+
+You would provide a message, a book - and it would find the words you typed in, *in the book*. 
+
+And, it would give the so-called 'Book-Code' This is a sequence of "sub-keys" that are needed for decrypting. This sequence of "sub-keys"'s purpose, would be - If entered correctly into the program; It(the program) would find only those words which corresponds to the sub-keys. And, print those out.
+
+-----------------------
+
+Now, of course there already was these, so-called 'Book-Code Encryptors and Decryptors' online,
+**but I wanted a program**, (That, for 1 reason of many, many reasons; could run offline, and where I could learn from it, improve it,(...) and so on.)
+
+Shortly, I never found any **completely-done, fully-working,  program that does that.** On the internet.
+
+- Not even today. 
+
+----------------------------
+
+Until now - that is. although, I "Didn't found", but I "Made" one.
+In python!, trough Jupyter!
+
+So, here is a book cipher, implemented in Python. 
+
+Hope it can help those who, from years ago - who searched for a book cipher, like I did(like crazy). And, I (**again**) hope this can help those who,  In the **Future**; Searches for a BookCipher.
+One example of this, would be a question on stack overflow
+* https://stackoverflow.com/questions/42926663/arnold-book-cipher-with-python
+----------------------------
+This question, I have since **YEARS AGO** (Ever since I started having this idea to make this program) I have looked at ever since then. And I am happy to be able to answer it, although - I am quite surprised *No-one still have a answer(a **A working, answer that is**)* To it.
+----------------------------
+This question, is nearly (**If not identical**) to my problem I faced  **Years ago.** The idea was simple, and could be theoretically answered - like any other "plan" or "architecture/structure" of how a program would work..
+ 
+ "In theory, it's very simple."
+ 
+ **In practice ...**
+ **It isn't easy.**
+ "In practice, it can get **very, very difficult.**"
+ 
+ I am myself very pleased with this program. Feel free to use it, I made it mainly - for myself, although I want to share this. So I really hope this can be useful for anyone who - like me, has for decades ago searched like crazy on the net for a book cipher, in for example python.
+ 
+ 
+Helpful Links:
+https://en.wikipedia.org/wiki/Book_cipher
+https://stackoverflow.com/questions/1247486/list-comprehension-vs-map
+https://stackoverflow.com/questions/7368789/convert-all-strings-in-a-list-to-int
+https://stackoverflow.com/questions/42926663/arnold-book-cipher-with-python
