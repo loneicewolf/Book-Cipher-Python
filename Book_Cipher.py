@@ -1,6 +1,5 @@
 # Book Cipher in Python3!
 # this is kinda like "Only Code" for those interested
-#Only code and no comments(or at least not needed ones)
 # Shortened it and removed stuff to make it more 'elegant' (hopefully it became that too)
 
 
